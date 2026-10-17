@@ -1,0 +1,4 @@
+[build]
+  command = "pnpm --filter @workspace/aircon-automation... run build"
+  # Vite emits the static site into dist/public (see vite.config.ts)
+  publish = "artifacts/aircon-automation/dist/public"

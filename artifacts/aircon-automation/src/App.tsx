@@ -86,7 +86,7 @@ function App() {
       <header className="site-header">
         <div className="header-inner">
           <a className="wordmark" href="#top" aria-label="Aircon Automation home" onClick={closeMenu} data-testid="link-header-home">
-            <img src={asset('aircon-wordmark-original.jpeg')} alt="AIRCON Automation" />
+            <img src={asset('aircon-wordmark-original.jpeg')} alt="AIRCON Automation" width={218} height={54} />
           </a>
           <nav className="desktop-nav" aria-label="Main navigation">
             {navigation.map(([label, href]) => <a key={href} href={href} data-testid={`link-navigation-desktop-${href.slice(1)}`}>{label}</a>)}
@@ -116,7 +116,7 @@ function App() {
               </div>
             </div>
             <div className="hero-image-wrap">
-              <img src={asset('aircon-automation-cell.jpeg')} alt="Aircon robotic automation cell at the Manesar facility" />
+              <img src={asset('aircon-automation-cell.jpeg')} alt="Aircon robotic automation cell at the Manesar facility" width={512} height={279} fetchPriority="high" decoding="async" />
               <div className="image-caption"><span>INDUSTRIAL AUTOMATION · IMT MANESAR</span><span>Engineering in operation</span></div>
             </div>
           </div>
@@ -133,7 +133,7 @@ function App() {
         <section id="company" className="section">
           <div className="container about-grid">
             <div className="about-photo">
-              <img src={asset('manesar-facility.jpeg')} alt="Engineering and railway systems inside the IMT Manesar facility" />
+              <img src={asset('manesar-facility.jpeg')} alt="Engineering and railway systems inside the IMT Manesar facility" width={512} height={279} loading="lazy" decoding="async" />
               <div className="photo-caption"><span><small>Infrastructure</small><br />Plot No. 60, Sector 3, IMT Manesar Facility</span><span>Reg. Office Delhi</span></div>
             </div>
             <div className="section-copy">
@@ -265,12 +265,12 @@ function App() {
       <footer className="site-footer">
         <div className="container">
           <div className="footer-grid">
-            <div className="footer-brand"><a className="wordmark" href="#top" aria-label="AIRCON Automation home" data-testid="link-footer-home"><img src={asset('aircon-wordmark-original.jpeg')} alt="AIRCON Automation" /></a><p>Engineering solutions for railway systems, industrial automation, and precision fluid conveyance.</p></div>
+            <div className="footer-brand"><a className="wordmark" href="#top" aria-label="AIRCON Automation home" data-testid="link-footer-home"><img src={asset('aircon-wordmark-original.jpeg')} alt="AIRCON Automation" width={218} height={54} /></a><p>Engineering solutions for railway systems, industrial automation, and precision fluid conveyance.</p></div>
             <div className="footer-col"><h3>Company</h3><a href="#company" data-testid="link-footer-company">Corporate Profile</a><a href="#segments" data-testid="link-footer-segments">Business Segments</a><a href="#experience" data-testid="link-footer-experience">Engineering Experience</a><a href="#quality" data-testid="link-footer-quality">Quality Protocols</a></div>
             <div className="footer-col"><h3>Capabilities</h3><a href="#railway-business" data-testid="link-footer-railway">Railway Systems</a><a href="#manufacturing-automation" data-testid="link-footer-manufacturing">Manufacturing &amp; Automation</a><a href="#products" data-testid="link-footer-products">Product Directory</a><a href="#hose-assembly" data-testid="link-footer-hose">Hose Assembly</a></div>
             <div className="footer-col"><h3>Contact</h3><p>Plot No. 60, Sector 3,<br />IMT Manesar, Haryana</p><a href="tel:+911244382248" data-testid="link-footer-phone">+91 124-4382248</a><a href="mailto:info@airconautomation.com" data-testid="link-footer-email">info@airconautomation.com</a></div>
           </div>
-          <div className="copyright"><span>© 2024 Aircon Automation India Pvt. Ltd. All rights reserved.</span><span>Engineering &amp; manufacturing · IMT Manesar, India</span></div>
+          <div className="copyright"><span>© {new Date().getFullYear()} Aircon Automation India Pvt. Ltd. All rights reserved.</span><span>Engineering &amp; manufacturing · IMT Manesar, India</span></div>
         </div>
       </footer>
     </>

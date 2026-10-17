@@ -1,0 +1,178 @@
+==================================================
+TASK CONTINUITY, CHECKPOINTS & AGENT HANDOVER
+==================================================
+
+This project may require multiple Replit Agent sessions because
+of time limits, usage limits, context limitations, or other
+interruptions.
+
+You MUST maintain a clear record of project progress so that
+another Replit Agent can continue working on the SAME PROJECT
+without starting over or repeating completed work.
+
+1. MAINTAIN A PROJECT CHECKLIST
+
+Create and maintain a file named:
+
+PROJECT_PROGRESS.md
+
+Place it in the root directory of the project.
+
+This file must contain:
+
+- Project name and objective.
+- Current implementation status.
+- Tasks successfully completed.
+- Tasks currently in progress.
+- Tasks remaining.
+- Known bugs and unresolved issues.
+- Missing assets or information required from me.
+- Desktop responsiveness testing status.
+- Mobile responsiveness testing status.
+- Functional testing status.
+- Any remaining backend or deployment configuration.
+- The exact next steps for continuing development.
+
+2. UPDATE THE CHECKLIST CONTINUOUSLY
+
+Update PROJECT_PROGRESS.md after completing significant tasks.
+
+Do not wait until the end of the session to record progress.
+
+Mark tasks using these statuses:
+
+[COMPLETED] Task finished and verified.
+
+[IN PROGRESS] Task currently being worked on.
+
+[PENDING] Task not yet started.
+
+[BLOCKED] Task cannot continue without resolving a problem
+or receiving additional information.
+
+Do not mark a task as completed unless it has actually been
+implemented. Where appropriate, distinguish implementation
+from testing and verification.
+
+3. TIME LIMIT OR SESSION INTERRUPTION
+
+If you anticipate running out of time, context, usage, or
+available Agent execution capacity, prioritize creating a
+reliable handover rather than starting another large feature.
+
+Before stopping:
+
+- Save all current code changes.
+- Ensure the project remains in its current working directory.
+- Do not delete or recreate the project.
+- Do not overwrite working components unnecessarily.
+- Record the current implementation status.
+- Identify incomplete code and partially implemented features.
+- Document any errors or unresolved problems.
+- Update PROJECT_PROGRESS.md.
+- Create a prioritized list of the remaining tasks.
+- Identify the exact next task the next Agent should perform.
+
+If possible, leave the application in a working state.
+
+Never claim that unfinished work is complete simply because
+the session is ending.
+
+4. REMAINING WORK CHECKLIST
+
+At the end of the session, provide a clear checklist showing
+how much work remains.
+
+Use the following format:
+
+PROJECT STATUS:
+Overall progress: [estimated percentage]
+
+COMPLETED:
+- [x] Task 1
+- [x] Task 2
+
+IN PROGRESS:
+- [ ] Task currently being implemented
+- Current implementation details:
+- Files or components involved:
+
+REMAINING:
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+BLOCKED:
+- [ ] Any task requiring additional information or a fix
+
+TESTING:
+- Desktop: [Not tested / In progress / Passed / Failed]
+- Mobile: [Not tested / In progress / Passed / Failed]
+- Navigation: [Not tested / In progress / Passed / Failed]
+- Forms: [Not tested / In progress / Passed / Failed]
+- Build: [Not tested / Passed / Failed]
+
+NEXT ACTION:
+Provide the single most important task the next Agent should
+perform first.
+
+NEXT AGENT INSTRUCTIONS:
+Write a short, specific handover message that another Replit
+Agent can follow immediately.
+
+The progress percentage must be a reasonable estimate based on
+the actual work completed, not an arbitrary number.
+
+5. CONTINUING WITH ANOTHER REPLIT AGENT
+
+Assume that another Agent may take over this project.
+
+The next Agent must be able to continue from the existing files
+and current implementation without rebuilding the website.
+
+When starting a continuation session, the next Agent should:
+
+1. Inspect PROJECT_PROGRESS.md.
+2. Inspect the existing project structure and current code.
+3. Review the last recorded checkpoint.
+4. Verify the current application state.
+5. Identify the highest-priority incomplete task.
+6. Continue from that point.
+7. Preserve completed work and the existing Figma design.
+8. Update PROJECT_PROGRESS.md after making further progress.
+
+The next Agent must NOT:
+
+- Restart the project from scratch.
+- Replace the existing implementation with a new template.
+- Repeat tasks that have already been completed and verified.
+- Delete working code simply to simplify the implementation.
+- Assume that tasks marked complete are correct without checking
+  them when verification is important.
+- Make unrelated design changes during the handover.
+
+If the previous Agent stopped halfway through a component,
+inspect the existing code and finish or repair that component
+instead of creating a duplicate.
+
+6. FINAL HANDOVER REQUIREMENT
+
+Before ending any session, ensure PROJECT_PROGRESS.md is updated
+and contains enough information to resume development.
+
+In your final response, tell me:
+
+- What has been completed.
+- What remains unfinished.
+- The estimated percentage of completion.
+- Whether the current application runs.
+- The exact next step.
+- That the next Agent should continue in the existing project
+  and read PROJECT_PROGRESS.md first.
+
+IMPORTANT:
+The purpose of this process is to preserve project continuity
+across multiple Agent sessions.
+
+Always prioritize continuing the existing project over
+rebuilding it.

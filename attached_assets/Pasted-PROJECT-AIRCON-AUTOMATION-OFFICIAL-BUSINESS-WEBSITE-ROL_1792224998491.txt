@@ -1,0 +1,636 @@
+PROJECT: AIRCON AUTOMATION — OFFICIAL BUSINESS WEBSITE
+
+ROLE:
+Act as a senior frontend developer, UI/UX implementation specialist,
+and responsive web design engineer.
+
+Your task is to build a complete, professional, responsive website
+for AIRCON Automation by accurately implementing my existing Figma
+design.
+
+FIGMA DESIGN REFERENCE:
+[PASTE YOUR FIGMA LINK HERE]
+
+IMPORTANT:
+I have already created the website design using Google Stitch,
+exported it to Figma, and made additional manual changes in Figma.
+
+The Figma design is the primary source of truth.
+
+DO NOT redesign the website from scratch.
+DO NOT replace my design with a generic industrial website template.
+DO NOT invent a different layout or visual identity.
+
+First, inspect the available design reference and understand its
+layout, typography, colors, spacing, images, components, navigation,
+and overall visual hierarchy.
+
+Then implement the website as faithfully as possible.
+
+If you cannot access the Figma file directly, inform me and ask me
+to provide exported screenshots or assets. Do not pretend that you
+have inspected a design you cannot access.
+
+
+==================================================
+1. BUSINESS OVERVIEW
+==================================================
+
+Business name: AIRCON Automation
+
+Industry:
+Industrial engineering, automation, manufacturing, railway
+engineering, and hydraulic hose assembly solutions.
+
+The website should present AIRCON Automation as an established,
+professional engineering company serving industrial and B2B clients.
+
+Its services include:
+
+- Industrial automation solutions
+- Special-purpose manufacturing systems
+- Railway engineering equipment
+- Manufacturing and automation systems
+- Sales and distribution
+- Hose assembly
+- High-pressure hydraulic hose assemblies
+- Engineering solutions for demanding operational environments
+
+The website should communicate technical expertise, reliability,
+manufacturing capability, and professionalism.
+
+Target audience:
+
+- Industrial procurement managers
+- Manufacturing companies
+- Railway industry professionals
+- Engineering firms
+- Plant managers
+- Industrial automation companies
+- OEMs
+- Technical decision-makers
+- Potential B2B customers and business partners
+
+The website is intended to establish credibility, showcase capabilities,
+and generate legitimate business enquiries.
+
+
+==================================================
+2. DESIGN FIDELITY — HIGHEST PRIORITY
+==================================================
+
+Follow the Figma design as closely as possible.
+
+The reference contains an industrial corporate aesthetic with:
+
+- A white or warm-white background
+- Dark navy-blue headings and text
+- Blue primary buttons
+- Clean typography
+- Generous whitespace
+- Structured content sections
+- Professional industrial imagery
+- A clean navigation bar
+- Minimal decorative elements
+- Clear calls to action
+
+Use the exact colors from my Figma design wherever possible.
+
+Do not guess the colors if they can be extracted from the design.
+
+Preserve the following wherever shown in Figma:
+
+- Header height and spacing
+- Logo dimensions and placement
+- Navigation structure
+- Font families and font weights
+- Heading sizes
+- Paragraph widths
+- Button styles
+- Border colors
+- Image dimensions and aspect ratios
+- Section backgrounds
+- Card layouts
+- Dividers
+- Spacing between sections
+- Alignment and positioning
+- Desktop content width
+- Overall visual hierarchy
+
+The website should look like a faithful implementation of my
+actual design, not merely a website inspired by it.
+
+Do not add unnecessary gradients, excessive animations, glassmorphism,
+oversized rounded cards, random icons, or decorative effects that
+are absent from the reference.
+
+Do not make the design overly flashy or futuristic.
+
+The desired appearance is premium, clean, technical, professional,
+and appropriate for an established industrial engineering company.
+
+
+==================================================
+3. BRANDING AND LOGO
+==================================================
+
+Use the actual AIRCON Automation logo supplied in the project assets
+or included in the Figma design.
+
+Do not recreate the logo using ordinary text if the original logo
+asset is available.
+
+Do not distort, recolor, stretch, or change the logo's proportions
+unless the design explicitly requires it.
+
+Keep the logo crisp and correctly positioned.
+
+Use the official logo in the header and other locations shown in
+the reference.
+
+If the logo asset is missing, ask me to provide it rather than
+inventing a different logo.
+
+The website's primary color palette must remain consistent with
+the Figma reference, particularly the dark navy blue and white
+combination.
+
+
+==================================================
+4. WEBSITE STRUCTURE AND NAVIGATION
+==================================================
+
+Implement the navigation according to the reference design.
+
+The visible navigation includes:
+
+- Home
+- About Us
+- Railway Business
+- Manufacturing & Automation
+- Sales Distribution
+- Hose Assembly
+- Projects
+- Contact
+- Discuss Your Requirement
+
+Preserve the original wording, hierarchy, and layout wherever
+possible.
+
+Each navigation item must lead to the appropriate page or section.
+
+Do not leave navigation links pointing to "#", empty destinations,
+or nonexistent pages.
+
+If the reference represents separate pages, implement those pages.
+
+If the reference represents a single-page website with section
+navigation, implement smooth navigation to the appropriate sections.
+
+Use the structure that best matches the Figma design.
+
+The primary call-to-action button should direct users to the
+contact or enquiry form.
+
+
+==================================================
+5. HOMEPAGE HERO SECTION
+==================================================
+
+Reproduce the homepage hero section from the Figma reference.
+
+The reference includes:
+
+- AIRCON AUTOMATION as the main heading
+- ENGINEERING & AUTOMATION SOLUTIONS as the supporting heading
+- A short description of the company's capabilities
+- A primary "Explore Our Capabilities" button
+- A secondary "Submit Technical RFQ" button
+- An industrial manufacturing or automation image
+
+Preserve the original text and visual hierarchy wherever possible.
+
+Use the following description as the baseline if the exact copy
+is not available:
+
+"Industrial automation, special-purpose manufacturing systems,
+railway engineering equipment, and high-pressure hydraulic hose
+assemblies engineered for demanding operational environments."
+
+The primary button should take the visitor to the capabilities section.
+
+The secondary button should take the visitor to the enquiry form,
+where they can submit a technical Request for Quotation (RFQ).
+
+Use the correct industrial imagery from my design assets.
+
+If the original image is unavailable, use an appropriate,
+high-quality industrial manufacturing or automation image.
+
+Do not use unrelated office photographs, generic businesspeople,
+or futuristic AI-generated factory imagery.
+
+Make sure the text remains readable and the image is appropriately
+sized and aligned.
+
+
+==================================================
+6. COMPANY CREDIBILITY AND KEY METRICS
+==================================================
+
+Implement the statistics and credibility indicators visible
+in the Figma design.
+
+The reference includes:
+
+- 2005
+- Approximately 60
+- 4
+- ISO 9001
+
+Preserve the intended meaning and formatting of these indicators
+where it is clear from the design.
+
+Do not invent additional certifications, awards, statistics,
+customer counts, or business achievements.
+
+Do not claim that a certification is currently valid unless
+the supplied information supports that claim.
+
+If the meaning of a statistic is unclear, preserve the displayed
+value and ask me to confirm its label instead of inventing one.
+
+Maintain the same clean, horizontally structured appearance
+on desktop and adapt the metrics into a suitable layout on mobile.
+
+
+==================================================
+7. REMAINING WEBSITE SECTIONS
+==================================================
+
+Inspect the complete Figma design, including sections below
+the initial visible homepage.
+
+Implement every section that exists in the reference.
+
+Do not stop after completing the hero section.
+
+Depending on the actual design, these may include:
+
+- Company introduction
+- Engineering capabilities
+- Railway business
+- Manufacturing and automation
+- Sales and distribution
+- Hose assembly
+- Projects
+- Quality and certifications
+- Manufacturing facilities
+- Contact information
+- Technical enquiry form
+- Footer
+
+Only include sections supported by the design or confirmed
+business information.
+
+Keep the original section order wherever possible.
+
+If the Figma file contains multiple pages or frames, inspect
+them before deciding which pages need implementation.
+
+Maintain a consistent visual language across all pages and sections.
+
+
+==================================================
+8. RESPONSIVE DESIGN — MANDATORY
+==================================================
+
+The website must work properly on:
+
+1. Desktop and laptop screens
+2. Tablets
+3. Mobile phones
+
+Do not simply shrink the desktop layout to fit smaller screens.
+
+Implement responsive layouts with appropriate breakpoints.
+
+DESKTOP:
+
+- Preserve the Figma layout as closely as possible.
+- Maintain the intended content width and whitespace.
+- Keep navigation aligned and readable.
+- Preserve the relationship between hero text and imagery.
+- Avoid unnecessary stretching of content.
+
+TABLET:
+
+- Adjust columns, spacing, and typography where necessary.
+- Ensure images and text fit comfortably.
+- Prevent navigation items from overlapping.
+
+MOBILE:
+
+- Replace the desktop navigation with a functional hamburger menu
+  when appropriate.
+- Ensure the logo remains visible and correctly sized.
+- Stack hero content vertically when necessary.
+- Keep headings readable without excessive line breaks.
+- Make buttons easy to tap.
+- Allow buttons to stack vertically if needed.
+- Ensure images fit within the viewport.
+- Convert horizontal metric layouts into suitable stacked or
+  multi-column layouts.
+- Ensure forms are comfortable to use on a touchscreen.
+- Prevent text, cards, buttons, and images from overflowing.
+- Maintain consistent spacing and alignment.
+- Ensure the footer is usable on smaller screens.
+
+Use fluid layouts, CSS Grid, Flexbox, responsive typography,
+and sensible breakpoints.
+
+Do not use fixed widths that cause horizontal scrolling.
+
+Do not use absolute positioning for entire page layouts when
+responsive layout techniques are more appropriate.
+
+The website must not have horizontal overflow at common viewport
+widths, including approximately 320px, 375px, 390px, 768px,
+1024px, 1366px, and 1440px.
+
+Verify the actual mobile layout rather than assuming that
+responsive CSS will work automatically.
+
+
+==================================================
+9. FUNCTIONALITY AND USER INTERACTIONS
+==================================================
+
+Every visible interactive element must work correctly.
+
+Implement:
+
+- Navigation links
+- Mobile hamburger menu
+- Calls to action
+- Contact section navigation
+- Technical RFQ button
+- Enquiry form validation
+- Appropriate success and error states
+- Clickable email addresses, if provided
+- Clickable telephone numbers, if provided
+- Any other interactions present in the reference
+
+The enquiry form should support fields appropriate for a B2B
+engineering enquiry, such as:
+
+- Full name
+- Company name
+- Work email
+- Phone number
+- Service or business area
+- Project requirements
+- Additional technical details
+
+Do not add excessive fields if they are not necessary.
+
+Validate required fields and email formatting.
+
+Show clear feedback when a submission succeeds or fails.
+
+IMPORTANT:
+Do not create a fake submission process that displays a success
+message without actually submitting the enquiry to a working backend
+or configured form service.
+
+If no backend or submission service is available, implement the
+frontend form and clearly explain what configuration is required
+to receive real enquiries.
+
+Never expose API keys, passwords, private credentials, or email
+service secrets in frontend code.
+
+If a backend is required, use secure environment variables.
+
+
+==================================================
+10. TECHNICAL IMPLEMENTATION
+==================================================
+
+First inspect the existing Replit project.
+
+If the project already contains a working framework or application,
+reuse its existing architecture unless there is a strong reason
+to change it.
+
+Do not delete working code or replace the entire project without
+checking what already exists.
+
+If starting from scratch, use a modern, maintainable stack such as:
+
+- React
+- TypeScript
+- Vite
+- CSS Modules or well-organized regular CSS
+
+Use Tailwind CSS only if it is already part of the project or
+is genuinely useful for accurately reproducing the reference.
+
+Avoid unnecessary dependencies.
+
+Create reusable components for repeated elements such as:
+
+- Header
+- Navigation
+- Buttons
+- Metrics
+- Service cards
+- Section headings
+- Contact form
+- Footer
+
+Keep components organized and maintainable.
+
+Use semantic HTML elements.
+
+Follow accessibility best practices.
+
+Provide appropriate image alt text, keyboard navigation,
+visible focus states, and accessible form labels.
+
+Use correct heading hierarchy.
+
+Optimize images to avoid unnecessarily large downloads.
+
+Use suitable image formats and dimensions.
+
+Set a meaningful browser page title and meta description.
+
+Ensure the application runs correctly using the project's
+configured development and production commands.
+
+
+==================================================
+11. IMAGES AND ASSETS
+==================================================
+
+Use the images, icons, fonts, and other assets provided in
+the Figma design or project files wherever possible.
+
+Prioritize authentic industrial and manufacturing imagery
+relevant to AIRCON Automation.
+
+Do not use placeholder images if the actual reference assets
+are available.
+
+Do not leave broken image links or missing assets.
+
+Avoid embedding large images as base64 strings unnecessarily.
+
+If an image is unavailable, use a suitable replacement while
+preserving the reference's aspect ratio, composition, and
+visual balance.
+
+Organize local assets clearly within the project.
+
+
+==================================================
+12. PERFORMANCE, SEO, AND ACCESSIBILITY
+==================================================
+
+Implement reasonable production-quality practices.
+
+Performance:
+
+- Avoid unnecessary dependencies.
+- Optimize image loading.
+- Avoid excessive JavaScript.
+- Prevent layout shifts where practical.
+- Use lazy loading for below-the-fold images where appropriate.
+
+SEO:
+
+- Add an appropriate page title.
+- Add a meta description.
+- Use semantic page structure.
+- Use descriptive image alt text.
+- Ensure internal links work correctly.
+
+Accessibility:
+
+- Use accessible contrast.
+- Provide keyboard-accessible navigation.
+- Ensure the mobile menu is usable with a keyboard.
+- Associate form labels with their inputs.
+- Display understandable validation errors.
+- Respect reduced-motion preferences if animations are used.
+
+
+==================================================
+13. TESTING AND QUALITY CONTROL
+==================================================
+
+After implementation, run the application and inspect it.
+
+Do not stop once the code compiles.
+
+Compare the rendered website against the supplied Figma design.
+
+Check:
+
+- Header alignment
+- Logo size and position
+- Navigation spacing
+- Typography
+- Heading sizes
+- Text wrapping
+- Image placement
+- Button dimensions
+- Section spacing
+- Background colors
+- Borders
+- Metrics layout
+- Footer layout
+
+Check both desktop and mobile views.
+
+Test the website at the viewport widths listed earlier.
+
+Verify that:
+
+- No content overflows horizontally.
+- No important text is clipped.
+- No images are broken.
+- No buttons are unresponsive.
+- Navigation links lead to valid destinations.
+- The mobile menu opens and closes correctly.
+- Forms validate input appropriately.
+- The console does not contain avoidable errors.
+- All intended sections are present.
+
+Fix any issues you find.
+
+If browser preview or screenshot comparison is available, use it
+to compare the implementation with the Figma reference.
+
+Do not claim that the website has been fully tested unless
+you have actually performed the relevant checks.
+
+
+==================================================
+14. IMPORTANT RESTRICTIONS
+==================================================
+
+DO NOT:
+
+- Redesign the website without permission.
+- Ignore the Figma reference.
+- Build only the homepage hero and leave the remaining sections
+  incomplete.
+- Use a generic template that looks different from my design.
+- Change the brand colors arbitrarily.
+- Replace the original logo unnecessarily.
+- Invent company credentials or certifications.
+- Add fake customer testimonials.
+- Add fake project case studies.
+- Invent contact details.
+- Leave nonfunctional buttons.
+- Leave broken navigation links.
+- Use lorem ipsum as final website content.
+- Make the desktop layout the only supported layout.
+- Ignore mobile responsiveness.
+- claim that forms submit successfully when they do not.
+- Replace the existing project structure without inspecting it.
+
+
+==================================================
+15. FINAL DELIVERABLE
+==================================================
+
+Deliver a complete, functional, responsive AIRCON Automation website
+based on my existing Figma design.
+
+The final result should:
+
+1. Closely match the supplied Figma reference.
+2. Preserve the intended branding and color palette.
+3. Include all designed sections.
+4. Work on desktop, laptop, tablet, and mobile.
+5. Have functional navigation and calls to action.
+6. Have a properly implemented enquiry form.
+7. Use maintainable and organized code.
+8. Run successfully in Replit.
+9. Be suitable for further development toward production deployment.
+
+Before finishing, provide a concise implementation summary explaining:
+
+- Which pages and sections you implemented.
+- Which technologies you used.
+- Which responsive improvements you made.
+- Which interactions and forms are functional.
+- Whether any backend or third-party configuration remains.
+- Any missing assets or information you need from me.
+
+Start by inspecting the existing project and the accessible Figma
+reference. Then implement the website, run it, test it, and fix
+the issues you discover.

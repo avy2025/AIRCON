@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "AIRCON Automation"
+description = "The official AIRCON Automation business website: an industrial engineering capability showcase with responsive product discovery and technical RFQ enquiry submission."
+version = "1.0.0"
+id = "artifacts/aircon-automation"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19416
+
+[services.development]
+run = "pnpm --filter @workspace/aircon-automation run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/aircon-automation", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/aircon-automation/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19416"
+BASE_PATH = "/"
